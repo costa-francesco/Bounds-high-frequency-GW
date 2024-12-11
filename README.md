@@ -25,7 +25,7 @@ The references to cite to use the plot are the following:
 
 `arXiv:2402.14092`
 
-
+This work is the result of a collaboration among Virgile Dandoy, Toni Bertólez-Martínez and Francesco Costa
 
 
 
