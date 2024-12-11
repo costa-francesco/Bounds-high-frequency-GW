@@ -7,7 +7,7 @@ To reproduce the bounds in the following Figure
 which we presented in our paper `arXiv:2402.14092` (Figure 6), you can just
 
 * Download the repository
-* Unzip the file
+* Unzip the folder
 * Run in your terminal
 ```
 python Bounds.py
