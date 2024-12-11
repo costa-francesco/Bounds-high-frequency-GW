@@ -24,3 +24,5 @@ The references to cite to use the plot are the following:
 `arXiv:2309.14765`
 
 `arXiv:2402.14092`
+
+Authors: Virgile Dandoy, Toni Bertólez-Martínez, Francesco Costa
